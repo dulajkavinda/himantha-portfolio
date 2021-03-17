@@ -6,10 +6,10 @@ export default function Text() {
       <div className="row">
         <h1 style={{ fontWeight: "bold" }}>Himantha Tharindu</h1>
       </div>
-      <div className="row">
+      <div>
         <h3 style={{ color: "gray" }}>Software Developer</h3>
       </div>
-      <div class="row">
+      <div class="row" style={{ display: "flex", justifyContent: "center" }}>
         <a
           href="https://pasindu.me/"
           class="p-2 rounded-circle"
