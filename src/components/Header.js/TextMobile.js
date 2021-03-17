@@ -10,10 +10,10 @@ export default function Text() {
         <h3 style={{ color: "gray" }}>Software Developer</h3>
       </div>
       <div class="row" style={{ display: "flex", justifyContent: "center" }}>
-        <a
-          href="https://pasindu.me/"
+      <a
+          href="https://www.facebook.com/himantha95/"
           class="p-2 rounded-circle"
-          style={{ background: "grey", marginRight: "0.5rem" }}
+          style={{ background: "#e040fb", marginRight: "0.5rem" }}
         >
           <img
             src={process.env.PUBLIC_URL + "./icons8-facebook-96 .png"}
@@ -23,9 +23,9 @@ export default function Text() {
           />
         </a>
         <a
-          href="https://pasindu.me/"
+          href="https://www.linkedin.com/in/himantha-samarasinghe-66250b202/"
           class="p-2 rounded-circle"
-          style={{ background: "grey", marginRight: "0.5rem" }}
+          style={{ background: "#e040fb", marginRight: "0.5rem" }}
         >
           <img
             src={process.env.PUBLIC_URL + "./icons8-linkedin-96.png"}
@@ -35,9 +35,9 @@ export default function Text() {
           />
         </a>
         <a
-          href="https://pasindu.me/"
+          href="https://www.instagram.com/__himantha__/"
           class="p-2 rounded-circle"
-          style={{ background: "grey", marginRight: "0.5rem" }}
+          style={{ background: "#e040fb", marginRight: "0.5rem" }}
         >
           <img
             src={process.env.PUBLIC_URL + "./icons8-instagram-96 .png"}
@@ -47,9 +47,9 @@ export default function Text() {
           />
         </a>
         <a
-          href="https://pasindu.me/"
+          href="mailto:himantha@himantha.gay"
           class="p-2 rounded-circle"
-          style={{ background: "grey", marginRight: "0.5rem" }}
+          style={{ background: "#e040fb", marginRight: "0.5rem" }}
         >
           <img
             src={process.env.PUBLIC_URL + "./icons8-email-96 .png"}

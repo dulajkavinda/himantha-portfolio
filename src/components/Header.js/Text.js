@@ -13,7 +13,7 @@ export default function Text() {
         <a
           href="https://www.facebook.com/himantha95/"
           class="p-2 rounded-circle"
-          style={{ background: "grey", marginRight: "0.5rem" }}
+          style={{ background: "#e040fb", marginRight: "0.5rem" }}
         >
           <img
             src={process.env.PUBLIC_URL + "./icons8-facebook-96 .png"}
@@ -25,7 +25,7 @@ export default function Text() {
         <a
           href="https://www.linkedin.com/in/himantha-samarasinghe-66250b202/"
           class="p-2 rounded-circle"
-          style={{ background: "grey", marginRight: "0.5rem" }}
+          style={{ background: "#e040fb", marginRight: "0.5rem" }}
         >
           <img
             src={process.env.PUBLIC_URL + "./icons8-linkedin-96.png"}
@@ -37,7 +37,7 @@ export default function Text() {
         <a
           href="https://www.instagram.com/__himantha__/"
           class="p-2 rounded-circle"
-          style={{ background: "grey", marginRight: "0.5rem" }}
+          style={{ background: "#e040fb", marginRight: "0.5rem" }}
         >
           <img
             src={process.env.PUBLIC_URL + "./icons8-instagram-96 .png"}
@@ -47,9 +47,9 @@ export default function Text() {
           />
         </a>
         <a
-          href="mailto:himantha@himatha.gay"
+          href="mailto:himantha@himantha.gay"
           class="p-2 rounded-circle"
-          style={{ background: "grey", marginRight: "0.5rem" }}
+          style={{ background: "#e040fb", marginRight: "0.5rem" }}
         >
           <img
             src={process.env.PUBLIC_URL + "./icons8-email-96 .png"}

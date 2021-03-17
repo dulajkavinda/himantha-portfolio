@@ -13,7 +13,7 @@ export default function Personal() {
                     <h6><GrMapLocation/> Galle, Sri Lanka</h6>
             </div>
             <div className="flex-column">
-                <a href="mailto:himantha@himatha.gay" style={{textDecoration: "none", color: "#5cb85c"}} class="card-text">
+                <a href="mailto:himantha@himatha.gay" style={{textDecoration: "none", color: "#e040fb"}} class="card-text">
                 <h6><AiOutlineMail/> himantha@himantha.gay</h6>
                 </a>
             </div>
