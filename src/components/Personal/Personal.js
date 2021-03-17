@@ -7,7 +7,7 @@ export default function Personal() {
     return (
         <div>
         <div style={{marginTop: "2rem"}}>
-        <div class="shadow">
+        <div class="shadow" style={{borderRadius: '1rem'}}>
         <div class="card-body">
             <div className="flex-column">
                 <a href="mailto:test@test.com" style={{textDecoration: "none", color: "black"}} class="card-text">

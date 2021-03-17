@@ -40,3 +40,7 @@
 .float-left {
 	float: left !important;
 }
+
+.flex-column.card-body {
+	border-radius: 10px;
+}
