@@ -3,7 +3,7 @@ import React from 'react'
 export default function Skill() {
     return (
        <div style={{marginTop: "2rem", marginBottom:"2rem"}}>
-        <div class="shadow">
+       <div class="shadow" style={{borderRadius: '1rem'}}>
         <div class="flex-column card-body">
         <h3 class="card-title" style={{fontWeight: "bold"}}>Skills</h3>
             <h6 class="card-text" style={{marginTop: "0.5rem"}}>Python</h6>
