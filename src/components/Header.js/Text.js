@@ -11,7 +11,7 @@ export default function Text() {
       </div>
       <div class="row">
         <a
-          href="https://pasindu.me/"
+          href="https://www.facebook.com/himantha95/"
           class="p-2 rounded-circle"
           style={{ background: "grey", marginRight: "0.5rem" }}
         >
@@ -23,7 +23,7 @@ export default function Text() {
           />
         </a>
         <a
-          href="https://pasindu.me/"
+          href="https://www.linkedin.com/in/himantha-samarasinghe-66250b202/"
           class="p-2 rounded-circle"
           style={{ background: "grey", marginRight: "0.5rem" }}
         >
@@ -35,7 +35,7 @@ export default function Text() {
           />
         </a>
         <a
-          href="https://pasindu.me/"
+          href="https://www.instagram.com/__himantha__/"
           class="p-2 rounded-circle"
           style={{ background: "grey", marginRight: "0.5rem" }}
         >
@@ -47,7 +47,7 @@ export default function Text() {
           />
         </a>
         <a
-          href="https://pasindu.me/"
+          href="mailto:himantha@himatha.gay"
           class="p-2 rounded-circle"
           style={{ background: "grey", marginRight: "0.5rem" }}
         >
