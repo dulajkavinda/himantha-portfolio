@@ -10,17 +10,15 @@ export default function Personal() {
         <div class="shadow" style={{borderRadius: '1rem'}}>
         <div class="card-body">
             <div className="flex-column">
-                <a href="mailto:test@test.com" style={{textDecoration: "none", color: "black"}} class="card-text">
                     <h6><GrMapLocation/> Galle, Sri Lanka</h6>
-                </a>
             </div>
             <div className="flex-column">
-                <a href="mailto:test@test.com" style={{textDecoration: "none", color: "#5cb85c"}} class="card-text">
+                <a href="mailto:himantha@himatha.gay" style={{textDecoration: "none", color: "#e040fb"}} class="card-text">
                 <h6><AiOutlineMail/> himantha@himantha.gay</h6>
                 </a>
             </div>
             <div className="flex-column">
-                <a href="mailto:test@test.com" style={{textDecoration: "none", color: "black"}} class="card-text">
+                <a href="https://hclsrilanka.com" style={{textDecoration: "none", color: "black"}} class="card-text">
                 <h6><BsBuilding/> HCL </h6>
                 </a>
             </div>

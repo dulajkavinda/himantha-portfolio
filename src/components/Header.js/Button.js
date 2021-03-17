@@ -4,7 +4,7 @@ import { FiNavigation } from 'react-icons/fi';
 const Button = () => {
     return (
         <div style={{marginTop: "1rem"}}>
-        <button className="btn btn-success"><FiNavigation/> CONTACT ME!</button>
+        <a href="mailto:himantha@himantha.gay" style={{textDecoration: 'none', background: "#e040fb", borderColor: '#e040fb'}} className="btn btn-secondary"><FiNavigation/> CONTACT ME!</a>
         </div>
     );
 }
