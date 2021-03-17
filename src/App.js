@@ -1,24 +1,30 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header.js/Header'
+import About from './components/About/About'
+import Edu from './components/Education/Edu'
+import Work from './components/Work/Work'
+import Personal from './components/Personal/Personal'
+import Skills from './components/Skills/Skill'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+  <div className="container" style={{height: "100%", overflow: 'hidden'}}>
+  <Header />
+  <div>
+    <div class="row align-items-center">
+      <div class="col-sm">
+      <About />
+      <Edu />
+      <Work />
+      </div>
+      <div class="col-sm">
+      <Personal />
+      <Skills />
+      </div>
     </div>
+  </div> 
+  </div>
   );
 }
 
